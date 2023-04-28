@@ -12,9 +12,9 @@ My name is Jason Nguyễn and I'm coding my way up to become the most reliable d
   <a href="https://www.instagram.com/ocd.brbr/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-<a href="daidungnguyen2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+<a href="mailto:daidungnguyen2003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 </div>
 
 <p style="margin-bottom: 20px;"></p>

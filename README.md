@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/tennydev/tennydev/main/codinggif.gif"></div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/codinggif.gif" alt="coding gif" />
+</p>
 
 # Hi, I'm Jason! <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/wave.gif" width="30px">
 My name is Jason Nguyễn and I'm coding my way up to become the most reliable dev a business can find.

@@ -10,7 +10,8 @@ My name is Jason Nguyễn and I'm coding my way up to become the most reliable d
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/ocd.brbr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="![image](https://user-images.githubusercontent.com/128450487/235047447-b49b7468-5dce-407d-8fb4-08660ee592b8.png)
+" alt="Instagram Badge"/>
   </a>
 </div>
 

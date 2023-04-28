@@ -5,15 +5,17 @@ My name is Jason Nguyễn and I'm coding my way up to become the most reliable d
   <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/codinggif.gif" alt="coding gif" width="180px"/>
 </p>
 
-## Connect with me!
-<!-- Actual text -->
+<div id="badges" align="center">
+<a href="https://www.linkedin.com/in/daidungnguyen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/ocd.brbr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-You can connect with me on [![LinkedIn][2.2]][2].
+<p style="margin-bottom: 20px;"></p>
 
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/daidungnguyen2003/
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tennydev&theme=neon&hide_border=true" alt="GitHub Streak" style="display: block; margin: auto;">
+</p>

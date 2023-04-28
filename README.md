@@ -2,7 +2,7 @@
 My name is Jason Nguyễn and I'm coding my way up to become the most reliable dev a business can find 🔥♾
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/codinggif.gif" alt="coding gif" width="120px"/>
+  <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/codinggif.gif" alt="coding gif" width="180px"/>
 </p>
 
 ## Connect with me!

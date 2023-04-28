@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/codinggif.gif" alt="coding gif" width="180px"/>
 </p>
 
-<h3 align="center">Find me at</h3>
+<h4 align="center">Find me at</h4>
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/daidungnguyen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +19,7 @@
 </div>
 
 <p style="margin-bottom: 20px;"></p>
-
+<h4 align="center">Git Stats</h4>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tennydev&theme=swift&hide_border=true" alt="GitHub Streak" style="display: block; margin: auto;">
 </p>

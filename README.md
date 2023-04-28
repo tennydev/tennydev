@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Jason! <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/wave.gif" width="30px"></h1>
-<h2 align="center">My name is Jason Nguyễn and I'm coding my way up to become the most reliable dev a business can find 🔥♾</h2>
+<h1 align="center">Hi, I'm Jason Nguyễn! and<img src="https://raw.githubusercontent.com/tennydev/tennydev/main/wave.gif" width="30px"></h1>
+<h4 align="center">I'm coding my way up to become the most reliable dev a business can find 🔥♾</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/codinggif.gif" alt="coding gif" width="180px"/>

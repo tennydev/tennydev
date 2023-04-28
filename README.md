@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/tennydev/tennydev/main/codinggif.gif" width="60px">
 # Hi, I'm Jason! <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/wave.gif" width="30px">
 My name is Jason Nguyễn and I'm coding my way up to become the most reliable dev a business can find.
 

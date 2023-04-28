@@ -20,5 +20,6 @@
 <p style="margin-bottom: 20px;"></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tennydev&theme=neon&hide_border=true" alt="GitHub Streak" style="display: block; margin: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tennydev&theme=swift&hide_border=true" alt="GitHub Streak" style="display: block; margin: auto;">
 </p>
+

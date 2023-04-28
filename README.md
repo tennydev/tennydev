@@ -3,7 +3,7 @@ My name is Jason Nguyễn and I'm coding my way up to become the most reliable d
 
 <!-- Actual text -->
 
-You can connect with me on [![LinkedIn][3.2]][3].
+You can connect with me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 

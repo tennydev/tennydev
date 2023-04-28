@@ -24,5 +24,5 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%92%BBTechnologies&align=center&titleAlign=center&showBorder=false&lineCount=3&theme=blood&hideBg=true&line1=React,react,343dd1;node.js,node.js,02b90e;express,express,6dad83;firebase,firebase,e6b400;&line2=Git,git,000000;mongodb,mongodb,58feb6;Stripe,stripeapi,ff61cd;" alt="My Tech Stack" width="600px"/>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%92%BB%20Technologies&align=center&titleAlign=center&showBorder=false&lineCount=3&theme=blood&hideBg=true&line1=React,react,343dd1;node.js,node.js,02b90e;express,express,6dad83;firebase,firebase,e6b400;&line2=Git,git,000000;mongodb,mongodb,58feb6;Stripe,stripeapi,ff61cd;" alt="My Tech Stack" width="600px"/>
 </div>

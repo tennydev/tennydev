@@ -7,11 +7,13 @@ My name is Jason Nguyễn and I'm coding my way up to become the most reliable d
 
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/daidungnguyen/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/ocd.brbr/" target="_blank">
-    <img src="![image](https://user-images.githubusercontent.com/128450487/235047447-b49b7468-5dce-407d-8fb4-08660ee592b8.png)
-" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+<a href="daidungnguyen2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 

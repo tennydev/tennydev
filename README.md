@@ -5,6 +5,7 @@
   <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/codinggif.gif" alt="coding gif" width="180px"/>
 </p>
 
+<h3 align="center">Find me at</h3>
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/daidungnguyen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

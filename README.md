@@ -23,4 +23,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tennydev&theme=swift&hide_border=true" alt="GitHub Streak" style="display: block; margin: auto;">
 </p>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies&lineCount=1&theme=blood&line1=React,react,343dd1;node.js,node.js,02b90e;express,express,6dad83;firebase,firebase,e6b400;" alt="My Tech Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies&lineCount=1&theme=blood&line1=React,react,343dd1;node.js,node.js,02b90e;express,express,6dad83;firebase,firebase,e6b400;Git,git,0a0a0a;" alt="My Tech Stack" />

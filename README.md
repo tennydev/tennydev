@@ -3,8 +3,9 @@
 </p>
 
 # Hi, I'm Jason! <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/wave.gif" width="30px">
-My name is Jason Nguyễn and I'm coding my way up to become the most reliable dev a business can find.
+My name is Jason Nguyễn and I'm coding my way up to become the most reliable dev a business can find 🔥♾
 
+## Connect with me!
 <!-- Actual text -->
 
 You can connect with me on [![LinkedIn][2.2]][2].

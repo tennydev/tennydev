@@ -25,5 +25,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%92%BB%20Technologies&align=center&titleAlign=center&showBorder=false&lineCount=3&theme=blood&hideBg=true&line1=React,react,343dd1;node.js,node.js,02b90e;express,express,6dad83;firebase,firebase,e6b400;&line2=Git,git,000000;mongodb,mongodb,58feb6;Stripe,stripeapi,ff61cd;" alt="My Tech Stack" width="600px"/>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code>
 </div>

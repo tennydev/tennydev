@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jason Nguyễn <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm  Nguyễn <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/wave.gif" width="30px"></h1>
 <h4 align="center">I'm coding my way up to become the most <ins>reliable</ins> dev a business can find ♾</h4>
 
 <p align="center">

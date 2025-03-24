@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm  Nguyễn <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/wave.gif" width="30px"></h1>
-<h4 align="center">I'm coding my way up to become the most <ins>reliable</ins> dev a business can find ♾</h4>
+<h1 align="center">Hi, I'm  Don <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/wave.gif" width="30px"></h1>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tennydev/tennydev/main/codinggif.gif" alt="coding gif" width="180px"/>
